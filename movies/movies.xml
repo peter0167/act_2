@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+
+<movies>
+    <movie id="1">
+        <movieTitle>Horizon:American saga</movieTitle>
+        <director>Kevin Costner</director>
+        <actors>
+            <actor>Tod Allen</actor>
+            <actor>Arthur Anderson</actor>
+            <actor>Austin Archer</actor>
+        </actors>
+        <year>2024</year>
+    </movie>
+    <movie id="2">
+        <movieTitle>Wolf Man</movieTitle>
+        <director>Leigh Whannell</director>
+        <actors>
+            <actor>Christopher Abbott</actor>
+            <actor>Julia Garner</actor>
+            <actor>Matilda Firth</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+    <movie id="3">
+        <movieTitle>Dog Man</movieTitle>
+        <director>Peter Hastings</director>
+        
+        
+        <actors>
+            <actor>Pete Davidson</actor>
+            <actor>Poppy Liu</actor>
+            <actor>Poppy Liu</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+    <movie id="4">
+        <movieTitle>IN The Grey</movieTitle>
+        <director>Guy Ritchie</director>
+        <actors>
+            <actor>Henry Cavill</actor>
+            <actor>Jake Gyllenhaal</actor>
+            <actor>Rosamund Pike</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+    <movie id="5">
+        <movieTitle>Mickey 17</movieTitle>
+        <director>Bong Joon Ho</director>
+        <actors>
+            <actor>Robert Pattinson</actor>
+            <actor>Steven Yeun</actor>
+            <actor>Michael Monroe</actor>
+        </actors>
+        <year>2025</year>
+    </movie>
+</movies>

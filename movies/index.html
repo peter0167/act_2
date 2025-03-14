@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <iframe src="movies.xml" width="100%" height="600px"></iframe>
+        <div>
+            <h2>XPath Query Tester</h2>
+            <p>Enter an XPath query and press "Run Query" to fetch data from movies.xml.</p>
+
+            <input type="text" id="xpathQuery" placeholder="Enter XPath query (e.g., /movies/movie/movieTitle)">
+            <button onclick="runXPathQuery()">Run Query</button>
+
+            <h3>Results:</h3>
+            <pre id="output">Results will appear here...</pre>
+        </div>
+    <script src="xpath.js"></script>
+</body>
+</html>
